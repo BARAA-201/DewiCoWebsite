@@ -1,5 +1,5 @@
 /**
-* Template Name: Dewi - v4.10.0
+* Template Name: DewiCo. - v4.10.0
 
 */
 (function () {
